@@ -1,4 +1,5 @@
-def no =
+
+no =
     ['å',
     'alle',
     'andre',
@@ -15,7 +16,7 @@ def no =
     'blitt',
     'bort',
     'bra',
-    'bruke,'
+    'bruke',
     'da',
     'då',
     'de',
@@ -34,18 +35,18 @@ def no =
     'dette',
     'di',
     'din',
-    'disse,'
+    'disse',
     'dit',
     'ditt',
     'du',
     'dykk',
-    'dykkar,'
+    'dykkar',
     'eg',
     'ein',
     'eit',
     'eitt',
     'eller',
-    'elles,
+    'elles',
     'en',
     'ene',
     'eneste',
