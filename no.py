@@ -1,6 +1,5 @@
 
-no =
-    ['å',
+stopwords =['å',
     'alle',
     'andre',
     'at',
